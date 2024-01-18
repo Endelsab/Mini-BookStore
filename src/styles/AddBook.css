@@ -1,0 +1,40 @@
+.form-wrapper {
+
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.form {
+
+    height: 300px;
+    width: 500px;
+    padding: 10px;
+}
+
+.btn {
+    margin-left: 65px;
+
+}
+
+.Home {
+    color: black;
+}
+
+.Home:hover {
+    color: white;
+    transition: ease-in-out 0.2s;
+}
+
+.wendel {
+    color: black;
+    text-decoration: none;
+}
+
+.wendel:hover {
+    color: white;
+}

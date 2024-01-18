@@ -1,0 +1,15 @@
+
+.booksItem{
+    width: 100%;
+    
+    border: 1px solid rgb(37, 19, 202);
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 2rem;
+}
+.img-book{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
